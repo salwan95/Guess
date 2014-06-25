@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Guess</string>
+    <string name="app_id">264964670355492</string>
+    <string name="start_button">Start</string>
+    <string name="login_button">Log in with Facebook</string>
+    <string name="logout_button">Log out</string>
+    <string name="updateParse_button">Update Group Members in Parse</string>
+    <string name="takePhoto_button">Take Photo</string>
+    <string name="uploadPhoto_button">Upload Photo</string>
+    <string name="login_content">GUESS</string>
+    <string name="title_activity_gameplay">Gameplay</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_socre">Socre</string>
+    <string name="title_activity_fragment_result">FragmentResult</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
